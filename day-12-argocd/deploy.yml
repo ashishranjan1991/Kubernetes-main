@@ -17,7 +17,7 @@ spec:
       terminationGracePeriodSeconds: 30
       containers:
       - name: swiggy-app
-        image: 491486890986.dkr.ecr.us-east-1.amazonaws.com/docker:latest
+        image: 319607035633.dkr.ecr.us-east-1.amazonaws.com/hotstar:latest
         #image: httpd
         imagePullPolicy: "Always"
         
